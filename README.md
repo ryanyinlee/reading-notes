@@ -8,7 +8,7 @@
 
 A Growth Mindset is a method of mental and intellectual advancement, fostered simply by attitude that embraces the idea that you as a person can become better and learn every day.
 
-I'd like to think that I share some of the concepts of the Growth Mindset, but I can recall times where I unconsciously didn't have a growth mindset - however actually seeing it laid out in the [diagram](https://github.com/ryanyinlee/ryanyinlee/blob/main/NewGrowthMindset2.png) makes it much easier to see the major concepts and adapt them. 
+I'd like to think that I share some of the concepts of the Growth Mindset, but I can recall times where I unconsciously didn't have a growth mindset - however actually seeing it laid out in the [diagram](https://raw.githubusercontent.com/ryanyinlee/ryanyinlee/main/NewGrowthMindset2.png) makes it much easier to see the major concepts and adapt them. 
 
 > - Challenges - Avoid or Face?
 > - Obstacles - Loses Focus or Persists?
