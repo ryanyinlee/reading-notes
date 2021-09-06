@@ -8,7 +8,7 @@
 
 A Growth Mindset is a method of mental and intellectual advancement, fostered simply by attitude that embraces the idea that you as a person can become better and learn every day.
 
-I'd like to think that I share some of the concepts of the Growth Mindset, but I can recall times where I unconsciously didn't have a growth mindset - however actually seeing it laid out in the [diagram](https://raw.githubusercontent.com/ryanyinlee/ryanyinlee/main/NewGrowthMindset2.png) makes it much easier to see the major concepts and adapt them. 
+I'd like to think that I share some of the concepts of the Growth Mindset, but I can recall times where I unconsciously didn't have a growth mindset - however actually seeing it laid out in the [diagram*](https://raw.githubusercontent.com/ryanyinlee/ryanyinlee/main/NewGrowthMindset2.png) makes it much easier to see the major concepts and adapt them. 
 
 > - Challenges - Avoid or Face?
 > - Obstacles - Loses Focus or Persists?
@@ -28,7 +28,7 @@ Then comes the **effort** - the study, practice, and work. I have to remind myse
 
 Then later, when all is said and done, **criticism** - Ego as a mental concept is difficult to put aside, but I have to remember that my ego will inhibit my growth if I refuse to learn from the analyses of my weaknesses.
 
-
+Diagram source: https://www.atlassian.com/blog/inside-atlassian/growth-mindset
 
 
 <!---
