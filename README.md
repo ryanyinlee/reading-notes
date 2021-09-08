@@ -93,7 +93,7 @@ The # symbol changes headers. More # = smaller header. A singular # makes a bigg
 
 ### Links
 
-[Text to be URled](URL)
+> [Text to be URled](URL)
 
 Example: [Imgur](https://www.imgur.com)
 
@@ -102,6 +102,8 @@ Example: [Imgur](https://www.imgur.com)
 Use > symbols to make block quotes.
 
 > Four score and seven years ago...
+
+## Read: 02 - The Coder's Computer
 
 
 
