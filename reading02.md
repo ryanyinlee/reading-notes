@@ -1,6 +1,6 @@
 ## Read: 02 - The Coder's Computer
 
-#### Choosing a Text Editor
+### Choosing a Text Editor
 
 Text editor is basically that - a program used to input text from the user. Some can be as simple as
 the basic word processing notepad programs installed by default in most computers or available in browsers via a URL,
