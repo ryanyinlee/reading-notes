@@ -6,10 +6,10 @@
 
 [What is a Growth Mindset?](growthmindset.md)
 
-[Reading-01: Learning Markdown](learningmarkdown.md)
+[Reading-01: Learning Markdown](reading01.md)
 
+[Reading-02: The Coder's Computer](reading02.md)
 
-## Read: 02 - The Coder's Computer
 
 
 
