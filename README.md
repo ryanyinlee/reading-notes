@@ -52,7 +52,7 @@ As do dashes: -
 
 In order to link an image you use an exclamation mark
 
-![Description of image](link_to_image.jpeg)
+'![Description of image](link_to_image.jpeg)'
 
 ![Here is a birb](https://i.imgur.com/rLua5JM.jpeg)
 
