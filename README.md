@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate with our new insect overlords.
 - 📫 Reach me on Slack.
 
-[What is a Growth Mindset?](growthmindset)
+[What is a Growth Mindset?](growthmindset.md)
 
 
 ## Reading: 01 - Learning Markdown
