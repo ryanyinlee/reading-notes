@@ -6,9 +6,22 @@
 
 [What is a Growth Mindset?](growthmindset.md)
 
-[Reading-01: Learning Markdown](reading01.md)
+[Reading01: Learning Markdown](reading01.md)
 
-[Reading-02: The Coder's Computer](reading02.md)
+[Reading02: The Coder's Computer](reading02.md)
+
+[Reading03: Revisions and the Cloud](reading03.md)
+
+[Reading04: Structure web pages with HTML](reading04.md)
+
+[Reading05: Design web pages with CSS](reading05.md)
+
+[Reading06: Dynamic web pages with JavaScript](reading06.md)
+
+[Reading07: Programming with JavaScript](reading07.md)
+
+[Reading08: Operators and Loops](reading08.md)
+
 
 
 
