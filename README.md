@@ -9,6 +9,7 @@
 [Reading01: Learning Markdown](reading01.md)
 
 [Reading02: The Coder's Computer](reading02.md)
+- [Reading02a: Terminal Use](reading02a.md)
 
 [Reading03: Revisions and the Cloud](reading03.md)
 
