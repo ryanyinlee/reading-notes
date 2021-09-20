@@ -92,16 +92,42 @@ Refers to your parent directory
 
 ##### Navigation
 
-In order to move directories we need to use the **cd** comand
+In order to move directories we need to use the **cd** command
 
 > cd [location]
 
-**cd** with no other arguments will take you to the home directory.
+Note: **cd** with no other arguments will take you to the home directory.
 
 ---
 
 ### About Files
 ---
+Linux does not care about extensions unlike Windows. 
 
+Therefore you need the **file** command.
+
+> file [path]
+
+This will tell us what kind of file you're looking at rather then trying to rely on the text since Linux doesn't care about extensions (e.g. file.txt can actually be an image file if named accordingly).
+
+Note: Linux is case sensitive, and if you don't match the filename case, it can cause issues.
+
+This is the same with commands entered in the terminal (e.g. ls is distinct from lS).
+
+**Spaces**: Spaces can affect how the terminal interprets commands. 
+
+The example given by the Linux Tutorial is the file called Holiday Photos.
+
+In order to prevent an error from the terminal, we must include the entire filename with the space via the use of single quotation marks.
+
+**This won't work**: 
+> cd Holiday Photos
+
+**This will**: 
+> cd 'Holiday Photos'
+
+Another option with the space is the **Escape Character**: A backslash \ will nullify the special meaning of the next character, which nornally would be a separate command.
+
+> cd Holiday\ Photos
 
 ---
