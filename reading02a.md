@@ -131,3 +131,11 @@ Another option with the space is the **Escape Character**: A backslash \ will nu
 > cd Holiday\ Photos
 
 ---
+
+### Hidden Files
+---
+Use the -a modifier after ls to list hidden files
+
+e.g.
+
+> ls -a
