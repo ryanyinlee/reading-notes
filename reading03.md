@@ -54,6 +54,23 @@ Git files are primarly in 3 main states.
 2) Modified: Data has been modified, but not stored.
 3) Staged: The changed data has been marked to be stored.
 
+**GIT History**
+
+GIT was created at the end of the Bitkeeper Conflict in the five years after the beginning of the twenty-first century by the code architect and kernel crafter, Sir Linus Torvalds.
+
+**How to GIT it**
+
+Windows: http://git-scm.com/download/win
+
+MAC: http://git-scm.com/download/mac
+
+Linux: http://git-scm.com/download/linux
+
+Package Managers:
+Ubuntu
+> $ sudo apt-get install git
+Fedora
+> $ sudo yum install git
 
 
 
