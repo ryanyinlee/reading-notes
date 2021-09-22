@@ -42,17 +42,17 @@ Git is a DVCS where a coder's saves are known as a *commit* which Git will save 
 
 It will also give the coder access to a reference to the snapshot.
 
-**Local Operations**
+**Local Operations, Tracking Changes, Loss of Data**
 
-Git uses local operations on the coder's hard disk as this allows work to be done offline.
+Git uses local operations on the coder's hard disk as this allows work to be done offline, but also tracks every change to a file or directory, as well as loss of data or corruption. Snapshots are supposed to be very difficult to lose.
 
-**Tracking Changes**
+**States**
 
-Git tracks every change to a file or directory, as well as loss of data or corruption.
+Git files are primarly in 3 main states.
 
-**Loss of Data**
-
-Snapshots 
+1) Committed: Data is stored securely.
+2) Modified: Data has been modified, but not stored.
+3) Staged: The changed data has been marked to be stored.
 
 
 
