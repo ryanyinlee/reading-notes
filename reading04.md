@@ -30,4 +30,29 @@ Wireframe.cc - A quick and easy browser based version of pen and paper suitable 
 
 ### 6 Steps to make a wireframe
 
-1. Do research: 
+1. Research
+- Audience
+- Requirements
+- Creating user personas - A fictional person who might use your software or site.
+- Use cases
+- Competitor research
+- Current trends
+- Best Practices
+- Any internal use guidelines
+- Check other parallel applications for inspiration
+
+2. Have all research ready for reference
+
+- Cheetsheet - Basically all of the above in an easy to read format
+    - Business goals
+    - User goals
+    - Personas
+    - Use cases
+    - Quick reminders on neat features found
+
+3. Map out user flow
+- Lets you figure out how many screens you need.
+- Where users are coming from and what they might expect.
+- Users should be able to figure out things without assistance from external sources.
+
+4. Actual drafting
