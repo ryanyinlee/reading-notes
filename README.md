@@ -14,6 +14,7 @@
 [Reading03: Revisions and the Cloud](reading03.md)
 
 [Reading04: Structure web pages with HTML](reading04.md)
+- [Reading04a: HTML Basics & Semantics](reading04a.md)
 
 [Reading05: Design web pages with CSS](reading05.md)
 
