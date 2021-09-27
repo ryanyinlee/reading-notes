@@ -16,7 +16,7 @@
 [Reading04: Structure web pages with HTML](reading04.md)
 - [Reading04a: HTML Basics & Semantics](reading04a.md)
 
-[Lab04](Lab04/Lab04.md)
+[Lab04](Lab04/index.html)
 
 [Reading05: Design web pages with CSS](reading05.md)
 
