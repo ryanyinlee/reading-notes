@@ -20,6 +20,8 @@
 
 [Reading05: Design web pages with CSS](reading05.md)
 
+[Lab05](Lab05\index.html)
+
 [Reading06: Dynamic web pages with JavaScript](reading06.md)
 
 [Reading07: Programming with JavaScript](reading07.md)
