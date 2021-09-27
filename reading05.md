@@ -4,7 +4,7 @@
 
 CSS are Cascading Style Sheets. This language will make your HTML look nice with a simple syntax system.
 
-###### What is CSS for?
+##### What is CSS for?
 
 **Document**: Structured text file, usually with HTML, but also with markup languages such as SVG or XML.
 
@@ -27,4 +27,10 @@ e.g.
 > color: red;
 
 Color is the property and red is the value.
+
+Check [CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference) for properties and values.
+
+##### CSS Modules
+
+CSS is broken down into modules. These modules affect different areas, such as the **Backgrounds and Borders** module which affects backgrounds and borders.
 
