@@ -42,7 +42,6 @@ body {
   /* Style the topnav links */
   .topnav a {
     float: left;
-    display: inline-block;
     color: #020202;
     text-align: center;
     padding: 30px 55px;
