@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>lab01b</title>
+    <style>
+        html {
+            color:rgb(54, 113, 165);
+        }
+        body {
+            background-color:rgba(15, 21, 39, 0.822);
+        }
+        p {
+            color: rgb(180, 161, 77);
+        }
+        li {
+            color:rgb(181, 150, 209);        
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Class 1 Lab</h1>    
+        
+
+      </header>
+
+    <main>
+
+        <p>Life Expectancy of the World Population is approximately 73.2 years according to: <a href ="https://www.worldometers.info/demographics/life-expectancy">The Worldometers</a> </p>
+        
+        <p><b>You were asked:</b></p>
+        <p style="color:red;">What is your name?</p>
+        <p style="color:rgb(0, 255, 34);">How many solar cycles have you experienced?</p>
+        <p style="color:rgb(38, 0, 255);">What is your favorite drink?</p>
+        <p style="color:rgb(190, 190, 190);">Who is your favorite person?</p>
+
+    </main>
+
+    <footer>
+     
+    </footer>
+    <script>
+
+        let name = prompt("What is your name?");
+        let age = prompt("How many solar cycles have you experienced?");
+        let drink = prompt("What is your favorite drink?");
+        let person = prompt("Who is your favorite person?");
+
+        let timeleft = (73.2 - age);
+
+        alert("Greetings " + name + " it looks like you have an approximately " + timeleft + " years on this spinning rock. You better get some more " + drink + "s while you can and spend as much time with " + person + " as you can!");
+
+        console.log("Name = " + name);
+        console.log("Age = " + age);
+        console.log("Drink = " + drink);
+        console.log("Person = " + person);
+        console.log("Time Left = " + timeleft);
+
+    </script>
+</body>
+</html>
