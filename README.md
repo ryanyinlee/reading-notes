@@ -28,6 +28,8 @@
 
 # Code 201 Reading Notes
 
+[class-01.md](class-01.md)
+
 [Reading01](reading20101.md)
 
 [Reading02](reading20102.md)
