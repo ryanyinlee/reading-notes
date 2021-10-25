@@ -193,6 +193,8 @@ Questions and instructions for the object that can give you stored information o
 
 **How to use Objects and Methods**
 
+From page 50 of Ducket's JS, the example below breaks down the object and method being called.
+
 ``document.write('Good afternoon!');``
 
 Document is the object - represents the page.
