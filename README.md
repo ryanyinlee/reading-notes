@@ -32,7 +32,7 @@
 
 [class-02.md](class-02.md)
 
-[Reading03](reading20103.md)
+[class-03.md](class-03.md)
 
 [Reading04](reading20104.md)
 
