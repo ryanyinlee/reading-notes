@@ -188,3 +188,55 @@ Logical: Compare expressions and combine to return true or false.
 
 ### Chapter 4: “Decisions and Loops” only up to the section on switch statements (pp.145-162)
 
+**Comparison Operators**
+
+Give true or false, and when strict will also compare data types. 
+
+``==`` Equal to.
+
+``!=`` Not equal to.
+
+``===`` Strict equal to.
+
+``!==`` Strict not equal to.
+
+``>`` or ``<`` Greater than or less than.
+
+``>=`` or ``<=`` Greater than or equal to or less than or equal to.
+
+These should be structured so the operator is in between two operands being compared.
+
+e.g. ``value1 !== value2;``
+
+**Logical Operators**
+
+
+``&&`` Logical And. Do both operands return as true when the operands are both comparison operators and can return true or false.
+
+``||`` Logical Or. Only needs to confirm one operand is true to return true.
+
+``!`` Not. Inverts a boolean value very simply.
+
+**If Statements**
+
+An if statement checks a comparison and if it returns true, will execute further code.
+
+e.g. ``if (value1 > 5) {``<br>
+    ``Does stuff in here.``<br>
+``}``
+
+**If Else Statements**
+
+Similar to above, but has Else appended to the statement which runs if the if is not satisfied.
+
+e.g. ``if (value1 > 5) {``<br>
+    ``Does stuff in here.``<br>
+``}``<br>
+``else {``<br>
+    ``Does this instead``<br>
+``}``
+
+**Switch Statements**
+
+A switch statement starts with the *switch value*, with multiple possible values, and several cases that would run for that particular value.
+
