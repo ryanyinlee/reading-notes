@@ -116,3 +116,20 @@ Use the ``return`` keyword to get back a value you can assign to a variable and 
 By creating variables within the function and using an array, a function can return multiple values as long as it is returned to an array.
 
 ### Article: “6 Reasons for Pair Programming”
+
+Driver and navigator. Driver inputs code while navigator directs the "bigger picture" and also will look for bugs and typos.
+
+(from https://www.codefellows.org/blog/6-reasons-for-pair-programming/)
+"Listening: hearing and interpreting the vocabulary
+Speaking: using the correct words to communicate an idea
+Reading: understanding what written language intends to convey
+Writing: producing from scratch a meaningful, well structured script"
+
+Useful as it is:
+
+1. More efficient in the long run.
+2. More engaging for both coders as they work together.
+3. Get more of a unique perspective from another person.
+4. Work on social skills.
+5. Talking through code and sharing a screen is a good way to get ready for job interviews as well as actual work where that may come into play.
+6. Easier to adapt to a work environment where it'll be necessary.
