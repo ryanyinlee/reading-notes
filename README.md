@@ -34,29 +34,29 @@
 
 [class-03.md](class-03.md)
 
-[Reading04](reading20104.md)
+[class-04.md](class-04.md)
 
-[Reading05](reading20105.md)
+[class-05.md](class-05.md)
 
-[Reading06](reading20106.md)
+[class-06.md](class-06.md)
 
-[Reading07](reading20107.md)
+[class-07.md](class-07.md)
 
-[Reading08](reading20108.md)
+[class-08.md](class-08.md)
 
-[Reading09](reading20109.md)
+[class-09.md](class-09.md)
 
-[Reading10](reading20110.md)
+[class-10.md](class-10.md)
 
-[Reading11](reading20111.md)
+[class-11.md](class-11.md)
 
-[Reading12](reading20112.md)
+[class-12.md](class-12.md)
 
-[Reading13](reading20113.md)
+[class-13.md](class-13.md)
 
-[Reading14](reading20114.md)
+[class-14.md](class-14.md)
 
-[Reading15](reading20115.md)
+[class-15.md](class-15.md)
 
 
 
