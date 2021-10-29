@@ -81,7 +81,29 @@ Lightness: 0% to 100% from black to white, 50% is the color.
 
 ### Chapter 12: “Text” (pp.264-299)
 
+**Typeface Terminology**
 
-### PEG vs PNG vs GIF — which image format to use and when?
+serif - extra detals on ends of letters
 
-https://blog.imagekit.io/jpeg-vs-png-vs-gif-which-image-format-to-use-and-when-c8913ae3e01d
+sans-serif - no details with straight ends to letters
+
+monospace - all the same width
+
+weight - how thick/emphasized the font is
+
+style - italics or oblique texts
+
+stretch - how condensed the letters are
+
+
+
+### JPEG vs PNG vs GIF — which image format to use and when?
+
+
+JPEG: Natural colors or photograph (real world).
+Lossy, but able to be compressed easily. Photos are better for this because they don't look as bad when compressed. Text and things with sharp contrasting pixels are easier to see the compression and look bad.
+
+PNG: Images that need transparency, images with text, or logos.
+Higher resolution lossless. Make for larger file size. Good for text or logos so there is less issues with the sharp edges/contrast.
+
+GIF: Images with animations as PNG is a better lossless format.
