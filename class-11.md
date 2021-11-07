@@ -82,9 +82,89 @@ and
 
 e.g. ``background-position: left bottom``
 
+**Image Rollovers and Sprites**
+
+CSS can change a button style when a mouse hovers over it through the use of CSS techniques which create a *sprite*. These are combinations of multiple images in the same spot/file.
+
+Sprites also help with the reduction of the number of images a browser has to load.
+
+Code below from W3Schools:
+
+```
+#navlist {
+  position: relative;
+}
+
+#navlist li {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  position: absolute;
+  top: 0;
+}
+
+#navlist li, #navlist a {
+  height: 44px;
+  display: block;
+}
+
+#home {
+  left: 0px;
+  width: 46px;
+  background: url('img_navsprites_hover.gif') 0 0;
+}
+
+#prev {
+  left: 63px;
+  width: 43px;
+  background: url('img_navsprites_hover.gif') -47px 0;
+}
+
+#next {
+  left: 129px;
+  width: 43px;
+  background: url('img_navsprites_hover.gif') -91px 0;
+}
+
+#home a:hover {
+  background: url('img_navsprites_hover.gif') 0 -45px;
+}
+
+#prev a:hover {
+  background: url('img_navsprites_hover.gif') -47px -45px;
+}
+
+#next a:hover {
+  background: url('img_navsprites_hover.gif') -91px -45px;
+}
+```
+
+**CSS3: Gradients**
+
+Gradients can be produced using certain browsers, but they are specific to the browser and not always supported.
 
 
 ### Chapter 19: “Practical Information” (476-492)
+
+**Search Engine Optimization**
+
+SEO is for helping users find your site via search engines and using best practices that will help search engines categorize and index your website so they can be found with the right keywords.
+
+There are on-page and off-page techniques that are useful for this, but it's recommended not to cheat as most search engines penalize such behavior. 
+
+**Analytics**
+
+Figuring out where your users are coming from, what they are seeing, and where they are going can help optimize your website.
+
+If users are leaving immediately after hitting a page, then it's useful to look at that page and see if there are any issues, or ways so that the proper audience sees them.
+
+**Domain Names & Hosting**
+
+In order to publish a site to the web it needs a domain name, and a web server constantly connected to the internet. While it's possible to host your own, it's usually much more cost effective for small businesses to do so through the use of a web service.
+
+**FTP & Third Party Tools**
+
+Sending images and files to your device to the hosting company uses a FTP, or a File Transfer Protocol. It's possible to do so directly through the web hosting service, but it's usually faster to find a program dedicated to FTP.
 
 https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Video_and_audio_APIs
 
