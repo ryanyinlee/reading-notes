@@ -4,7 +4,9 @@
 - 💞️ I’m looking to collaborate with our new insect overlords.
 - 📫 Reach me on Slack.
 
-# Code 102 Reading Notes
+# Reading Notes
+
+## Code 102 - Intro to Software Development
 
 [What is a Growth Mindset?](growthmindset.md)
 
@@ -26,7 +28,7 @@
 
 [Reading08: Operators and Loops](reading08.md)
 
-# Code 201 Reading Notes
+## Code 201 - Foundations of Software Development
 
 [class-01.md](class-01.md)
 
@@ -60,7 +62,9 @@
 
 [class-15.md](class-15.md)
 
+## Code 301 - Intermediate Software Development
 
+[class-301-01.md](class-301-01.md)
 
 <!---
 ryanyinlee/ryanyinlee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
