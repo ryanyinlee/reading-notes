@@ -70,6 +70,9 @@
 
 [class-301-03.md](class-301-03.md)
 
+[class-301-04.md](class-301-04.md)
+
+[class-301-05.md](class-301-05.md)
 
 <!---
 ryanyinlee/ryanyinlee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
