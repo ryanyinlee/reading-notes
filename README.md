@@ -94,8 +94,9 @@
 
 [class-301-14.md](class-301-14.md)
 
+## Code 401 - Advanced Software Development in Full-Stack JavaScript
 
-<!-- For some reason the ReadMe just doesn't get updated. -->
+[class-401-01.md](class-401-01.md)
 
 <!---
 ryanyinlee/ryanyinlee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
