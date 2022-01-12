@@ -100,6 +100,8 @@
 
 [class-401-02.md](class-401-02.md)
 
+[class-401-03.md](class-401-03.md)
+
 <!---
 ryanyinlee/ryanyinlee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
