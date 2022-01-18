@@ -106,6 +106,8 @@
 
 [class-401-05.md](class-401-05.md)
 
+[class-401-06.md](class-401-06.md)
+
 
 
 <!---
