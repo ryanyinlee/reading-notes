@@ -142,6 +142,9 @@
 
 [class-401-23.md](class-401-23.md)
 
+[class-401-24.md](class-401-24.md)
+
+
 <!---
 ryanyinlee/ryanyinlee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
